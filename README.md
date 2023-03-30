@@ -1,6 +1,6 @@
 {
 
- "version":"91",
+ "version":"92",
 
  "title":"Update available 🛠️",
 
