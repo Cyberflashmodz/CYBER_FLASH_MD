@@ -1,9 +1,3 @@
-Google Translate
-
-Original text
-
-Contribute a better translation
-
 {
 
  "version":"91",
